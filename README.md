@@ -1,2 +1,19 @@
 # Deepfake-Detection-System
-Deepfake image detection using deep learning and computer vision techniques for identifying real and fake face images.
+
+## Overview
+A deep learning-based system for detecting fake and real face images.
+
+## Technologies Used
+- Python
+- TensorFlow
+- OpenCV
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Files
+- deepfake_detection.ipynb
+- requirements.txt
+
+## Results
+Achieved high accuracy in classifying real and fake face images.
